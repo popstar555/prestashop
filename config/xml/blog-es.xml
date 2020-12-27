@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Global Freaks, ¡un eCommerce de manga y anime muy potente!</title>
+    <link>https://www.prestashop.com/es/blog/global-freaks</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Thu, 24 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/global-freaks</guid>
+  </item>
+  <item>
+    <title>Lámparas, ¡un eCommerce con mucha luz!</title>
+    <link>https://www.prestashop.com/es/blog/lamparas</link>
+    <description>En PrestaShop creemos que es muy enriquecedor identificar proyectos que han tenido éxito y analizarlos.</description>
+     <pubDate>Wed, 23 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/lamparas</guid>
+  </item>
+  <item>
+    <title>Alpargatus, ¡un eCommerce que avanza con paso firme!</title>
+    <link>https://www.prestashop.com/es/blog/alpargatus</link>
+    <description>En PrestaShop creemos que es interesante analizar y aprender de proyectos que consideramos casos de éxito,  teniendo en cuenta muchos y variados factores como los niveles de facturación alcanzados,</description>
+     <pubDate>Tue, 22 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/alpargatus</guid>
+  </item>
+  <item>
+    <title>Novedades PrestaShop 1.7.7</title>
+    <link>https://www.prestashop.com/es/blog/novedades-prestashop-1-7-7</link>
+    <description>El 2 de diciembre se lanzó la versión 1.7.7.0 de PrestaShop, muy esperada por muchos de nosotros por todas las novedades que trae.</description>
+     <pubDate>Mon, 21 Dec 2020 09:06:00 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/novedades-prestashop-1-7-7</guid>
+  </item>
+  <item>
+    <title>Calendario 2021 para el sector eCommerce </title>
+    <link>https://www.prestashop.com/es/blog/calendario-ecommerce-2021</link>
+    <description>Ya falta poco para despedir al 2020 y dar la bienvenida al nuevo año.</description>
+     <pubDate>Fri, 18 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/calendario-ecommerce-2021</guid>
+  </item>
+  <item>
+    <title>¿Qué diferencias hay entre un eCommerce y un marketplace?</title>
+    <link>https://www.prestashop.com/es/blog/diferencias-ecommerce-marketplaces</link>
+    <description>¿Sabes cuál es la diferencia entre un eCommerce y un marketplace?</description>
+     <pubDate>Wed, 16 Dec 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/diferencias-ecommerce-marketplaces</guid>
+  </item>
+  <item>
+    <title> &amp;#039;Protect My Shop&amp;#039;, el módulo PrestaShop para limitar los ataques contra tu Web</title>
+    <link>https://www.prestashop.com/es/blog/protect-my-shop</link>
+    <description>¿Conoces Protect My Shop y su potencial para restringir el acceso a &quot;los amigos de lo ajeno&quot; dentro de una tienda Online?</description>
+     <pubDate>Mon, 14 Dec 2020 00:00:00 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/protect-my-shop</guid>
+  </item>
+  <item>
+    <title>¿Qué es un eCommerce, qué tipos hay y cómo funciona?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-e-commerce</link>
+    <description>Si has llegado hasta aquí es porque la idea de crear un eCommerce te ronda. 
+Pues no te vayas porque estás en el lugar adecuado. </description>
+     <pubDate>Fri, 11 Dec 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-e-commerce</guid>
+  </item>
+  <item>
+    <title>¿Qué estrategia adoptar en la lucha contra el fraude en el pago?</title>
+    <link>https://www.prestashop.com/es/blog/lucha-contra-el-fraude</link>
+    <description>Nuestra saga dedicada al pago Online continúa. </description>
+     <pubDate>Mon, 07 Dec 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/lucha-contra-el-fraude</guid>
+  </item>
+  <item>
+    <title>Buenas prácticas para vender Online con el Checkout Pro de Mercado Pago</title>
+    <link>https://www.prestashop.com/es/blog/buenas-practicas-mercado-pago</link>
+    <description>¡Descubre cómo la combinación de una plataforma ideal y una solución de pagos en línea completa hacen que tu tienda venda mucho más!</description>
+     <pubDate>Fri, 04 Dec 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Mercado Pago</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/buenas-practicas-mercado-pago</guid>
+  </item>
+  </channel>
+</rss>

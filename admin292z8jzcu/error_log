@@ -1,0 +1,146 @@
+[23-May-2015 18:05:44 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 18:05:52 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 18:35:15 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 21:22:50 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 21:22:54 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 21:22:56 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[23-May-2015 21:31:18 Europe/Madrid] PHP Warning:  Division by zero in /home/casadelavetienda/public_html/controllers/admin/AdminStatsController.php on line 578
+[29-May-2015 18:11:41 Europe/Madrid] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/casadelavetienda/public_html/classes/db/DbPDO.php on line 179
+[29-May-2015 18:12:26 Europe/Madrid] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 2 bytes) in /home/casadelavetienda/public_html/classes/db/DbPDO.php on line 105
+[29-May-2015 18:16:10 Europe/Madrid] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1104 bytes) in /home/casadelavetienda/public_html/classes/db/DbPDO.php on line 91
+[29-May-2015 18:18:53 Europe/Madrid] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/casadelavetienda/public_html/classes/db/DbPDO.php on line 179
+[29-May-2015 11:49:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 11:49:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 288
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 234
+[29-May-2015 11:49:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Profile.php on line 145
+[29-May-2015 11:49:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 11:49:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Language.php on line 713
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 288
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 234
+[29-May-2015 11:49:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Profile.php on line 145
+[29-May-2015 11:49:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 11:49:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/shop/Shop.php on line 332
+[29-May-2015 18:49:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 288
+[29-May-2015 18:49:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Tab.php on line 234
+[29-May-2015 18:49:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/casadelavetienda/public_html/classes/Profile.php on line 145
+[26-Aug-2015 18:57:54 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/blocknewproducts/20150824/1/6/4a/77): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'blocknewproduct...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'blocknewproduct...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty),  in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[06-Oct-2015 20:03:37 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/149/158/1/6): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/ in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[06-Oct-2015 20:03:47 Europe/Madrid] PHP Fatal error:  Call to a member function getExistingImgPath() on a non-object in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on line 457
+[02-Dec-2015 22:07:04 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/blocktopmenu/1/6/category/199/a3/88/2d): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'blocktopmenu', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'blocktopmenu', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/ca in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[02-Feb-2016 19:32:06 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/blocktopmenu/1/6/product/184): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'blocktopmenu', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'blocktopmenu', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/casadelav... in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[03-Feb-2016 13:56:58 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/559/158/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty) in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[23-Mar-2016 12:11:10 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/15/144/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[28-Mar-2016 11:49:38 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/630/186/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty) in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[22-Apr-2016 18:34:42 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/731/175): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/casa in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[27-Apr-2016 11:46:33 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/blockspecials/20160427/6/20160427): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'blockspecials', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'blockspecials', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/casad in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[28-Apr-2016 20:16:29 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/123/164/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty) in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[23-May-2016 15:38:05 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/52/173/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[23-May-2016 15:38:17 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/30/133/1): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), '/home/cas in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[16-Jun-2016 11:28:54 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/718/173/1/6/a7/b1): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), ' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[29-Jun-2016 22:26:28 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/108/155/1/6/a7/b1): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty), ' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[29-Jun-2016 22:32:33 Europe/Madrid] PHP Fatal error:  Call to a member function getExistingImgPath() on a non-object in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on line 283
+[28-Sep-2016 11:54:39 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/743/230/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty) in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
+[15-Nov-2016 12:47:46 Europe/Madrid] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/casadelavetienda/public_html/cache/smarty/cache/productscategory/106/155/1/6/a7/b1/99): failed to open dir: No such file or directory' in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php:196
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('/home/casadelav...', 0)
+#1 /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(196): RecursiveDirectoryIterator->getChildren()
+#2 /home/casadelavetienda/public_html/tools/smarty/Smarty.class.php(845): Smarty_Internal_CacheResource_File->clear(Object(Smarty), '/home/casadelav...', 'productscategor...', NULL, NULL)
+#3 /home/casadelavetienda/public_html/classes/Tools.php(2719): Smarty->clearCache('/home/casadelav...', 'productscategor...', NULL)
+#4 /home/casadelavetienda/public_html/classes/module/Module.php(2173): ToolsCore::clearCache(Object(Smarty) in /home/casadelavetienda/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php on line 196
